@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../tmp/lib/liblane_detection_static.a  CMakeFiles/lane_detection_static.dir/utils.cpp.o
+/usr/bin/ranlib ../tmp/lib/liblane_detection_static.a
